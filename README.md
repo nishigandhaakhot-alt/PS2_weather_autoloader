@@ -1,4 +1,4 @@
-# PS2_weather_autoloader
+# PS2_Weather_AutoLoader
 
 How can we automatically ingest daily CSV files from a storage folder into a Delta table using Databricks Auto Loader?
 
